@@ -49,3 +49,27 @@
 - Níveis de estoque: disponível, reservado e avariado serão acompanhados?
 - Política de fornecedores: um produto pode ter fornecedores alternativos? como priorizar?
 - Centros de distribuição: o estoque será por localidade (CD/loja) ou centralizado?
+
+--
+
+### Mapa Relacional
+
+![Mapa Relacional](./mer.drawio.png)
+
+#### Algumas das perguntas que podem ser feitas para embasar as queries SQL
+
+**Quantos pedidos foram feitos por cada cliente?**
+
+- R: <a href='./scripts/Q1__top_pedidos_por_clientes.sql'>Resposta 1</a>
+
+**Algum vendedor também é fornecedor?**
+
+- R: <a href='./scripts/Q2__vendedor_fornecedor.sql'>Resposta 2</a>
+
+**Relação de nomes dos fornecedores e nomes dos produtos.**
+
+- R: <a href='./scripts/Q3__relacao_produto_fornecedor_estoque.sql'>Resposta 3 e 4</a>
+
+**Relação de produtos, fornecedores e estoques.**
+
+- R: <a href='./scripts/Q3__relacao_produto_fornecedor_estoque.sql'>Resposta 3 e 4</a>
