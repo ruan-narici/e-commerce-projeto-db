@@ -135,5 +135,45 @@ VALUES
     'Rio de Janeiro',
     'Rio de Janeiro',
     'Brasil'
+  ),
+  (
+    101,
+    'Rua dos Inconfidentes',
+    'Savassi',
+    'Belo Horizonte',
+    'Minas Gerais',
+    'Brasil'
+  ),
+  (
+    450,
+    'Avenida Rio Branco',
+    'Centro',
+    'Rio de Janeiro',
+    'Rio de Janeiro',
+    'Brasil'
+  ),
+  (
+    99,
+    'Rua Oscar Freire',
+    'Jardins',
+    'São Paulo',
+    'São Paulo',
+    'Brasil'
+  ),
+  (
+    200,
+    'Rua da Aurora',
+    'Santo Amaro',
+    'Recife',
+    'Pernambuco',
+    'Brasil'
+  ),
+  (
+    707,
+    'Avenida W3 Sul',
+    'Asa Sul',
+    'Brasília',
+    'Distrito Federal',
+    'Brasil'
   )
 ;
