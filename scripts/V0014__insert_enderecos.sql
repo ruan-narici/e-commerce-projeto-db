@@ -87,5 +87,53 @@ VALUES
     'Curitiba',
     'Paraná',
     'Brasil'
+  ),
+  (
+    100,
+    'Avenida das Nações',
+    'Setor Hoteleiro Sul',
+    'Brasília',
+    'Distrito Federal',
+    'Brasil'
+  ),
+  (
+    250,
+    'Rua Augusta',
+    'Consolação',
+    'São Paulo',
+    'São Paulo',
+    'Brasil'
+  ),
+  (
+    1100,
+    'Avenida Beira Mar',
+    'Meireles',
+    'Fortaleza',
+    'Ceará',
+    'Brasil'
+  ),
+  (
+    55,
+    'Rua do Futuro',
+    'Aflitos',
+    'Recife',
+    'Pernambuco',
+    'Brasil'
+  ),
+  (
+    700,
+    'Rua Padre Chagas',
+    'Moinhos de Vento',
+    'Porto Alegre',
+    'Rio Grande do Sul',
+    'Brasil'
+  ),
+  (
+    80,
+    'Alameda dos Anjos',
+    'Barra da Tijuca',
+    'Rio de Janeiro',
+    'Rio de Janeiro',
+    'Brasil'
   )
 ;
