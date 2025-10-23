@@ -1,0 +1,31 @@
+INSERT INTO
+  tbl_pedido (
+    ds_status,
+    vl_frete,
+    cd_rastreio,
+    id_pagamento,
+    id_cliente,
+    id_endereco
+  )
+VALUES
+  ('ENTREGUE', 0.00, 'DIGITAL001', 8, 3, 19),
+  ('ENTREGUE', 0.00, 'BR202020202BR', 9, 5, 21),
+  ('ENVIADO', 0.00, 'BR303030303BR', 10, 4, 20),
+  ('ENTREGUE', 0.00, 'DIGITAL002', 11, 2, 18),
+  ('AGUARDANDO PAGAMENTO', 0.00, NULL, 12, 1, 17),
+  ('ENTREGUE', 0.00, 'DIGITAL003', 13, 5, 21),
+  ('ENTREGUE', 0.00, 'DIGITAL004', 14, 3, 19),
+  ('ENTREGUE', 0.00, 'BR404040404BR', 15, 4, 20),
+  ('ENVIADO', 0.00, 'BR505050505BR', 16, 2, 18),
+  ('ENTREGUE', 0.00, 'BR606060606BR', 17, 1, 17),
+  ('ENVIADO', 0.00, 'BR707070707BR', 18, 1, 17),
+  ('ENTREGUE', 0.00, 'BR808080808BR', 19, 3, 19),
+  ('ENVIADO', 0.00, 'BR909090909BR', 20, 5, 21),
+  ('ENVIADO', 99.90, 'BR123456789BR', 1, 1, 17),
+  ('ENTREGUE', 0.00, 'BR987654321BR', 2, 3, 19),
+  ('AGUARDANDO PAGAMENTO', 0.00, NULL, 3, 2, 18),
+  ('ENTREGUE', 0.00, 'BR555444333BR', 4, 4, 20),
+  ('ENTREGUE', 0.00, 'DIGITAL005', 5, 5, 21),
+  ('CANCELADO', 0.00, NULL, 6, 2, 18),
+  ('ENVIADO', 0.00, 'BR101010101BR', 7, 1, 17)
+;
